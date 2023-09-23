@@ -7,3 +7,4 @@ sudo minicom 2222
 44444444444
 patch test
 '''
+试试乱码
